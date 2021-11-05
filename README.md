@@ -14,3 +14,6 @@ Observations:
   7. Further, the statistical data can be seen the winners with graph.
  
  For reference: You can refer to my work's dashboard created from this link ! [PREMIER LEAGUE WINNERS](https://public.tableau.com/views/PremierLeagueDashboard_16315173313290/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+![image](https://user-images.githubusercontent.com/40695609/140502517-dacf5519-43bb-4805-b7a7-d624db9950da.png)
